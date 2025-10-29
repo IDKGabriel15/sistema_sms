@@ -1,5 +1,6 @@
+import os
 from PySide6.QtWidgets import QMainWindow, QTabWidget
-from PySide6.QtGui import QAction
+from PySide6.QtGui import QAction, QIcon 
 
 from src.ui.tabs.DevolucionesTab import DevolucionesTab
 from src.ui.tabs.ReportesSimplesTab import ReportesSimplesTab 
@@ -20,6 +21,18 @@ class MainWindow(QMainWindow):
     def init_ui(self):
         self.setWindowTitle('📊 Sistema de Devoluciones y Reportes')
         self.setGeometry(100, 100, 1400, 900)
+
+        # --- AÑADIR ICONO DE VENTANA ---
+        # Asume que 'app_icon.png' está en la misma carpeta que main.py
+        # o en una subcarpeta 'assets'. Ajusta la ruta si es necesario.
+        # Si usas el .ico, cambia a "app_icon.ico"
+        icon_path = "app_icon.ico" 
+        if os.path.exists(icon_path): # Buena práctica verificar si existe
+             self.setWindowIcon(QIcon(icon_path))
+        else:
+             print(f"Advertencia: No se encontró el icono de la ventana en {icon_path}") 
+             # Puedes usar log.warning aquí si ya tienes el logger configurado
+        # --- FIN AÑADIR ICONO ---
 
         tab_widget = QTabWidget()
 

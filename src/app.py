@@ -5,11 +5,11 @@ from .database.connection import DatabaseConnection
 from .config.themes import ThemeManager
 
 class SistemaDevoluciones:
-    def __init__(self):
+    def __init__(self, db_connection, username):
         self.config = AppConfig()
-        self.db = DatabaseConnection()
+        self.db = db_connection
+        self.current_user = username 
         self.theme_manager = ThemeManager()
-        self.setup_application()
         self.main_window = MainWindow(self.db, self.config)
     
     def setup_application(self):
