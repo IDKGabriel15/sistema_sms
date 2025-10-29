@@ -10,7 +10,7 @@ class AppConfig:
             'port': self.settings.value("db_port", "5432"),
             'database': self.settings.value("db_name", "postgres"),
             'user': self.settings.value("db_user", "postgres"),
-            'password': self.settings.value("db_password", "")
+            'password': self.settings.value("db_password", "1")
         }
     
     def set_database_config(self, config):

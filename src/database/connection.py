@@ -7,7 +7,7 @@ class DatabaseConnection:
     def connect(self, host=None, port=None, database=None, user=None, password=None):
         try:
             if all(param is None for param in [host, port, database, user, password]):
-                host, port, database, user, password = "localhost", "5432", "postgres", "postgres", "Roman_3119"
+                host, port, database, user, password = "localhost", "5432", "postgres", "postgres", "1"
             
             self.connection = psycopg2.connect(
                 host=host,

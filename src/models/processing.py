@@ -19,7 +19,7 @@ class ProcessingThread(QThread):
             'fechainsercion', 'fechaaenviar', 'horaaenviar', 'campana'
         ]
     
-        def run(self):
+    def run(self):
             try:
                 all_dataframes = {}
                 tabla_resumen_data = []
