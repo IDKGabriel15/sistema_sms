@@ -1,0 +1,208 @@
+2025-10-28 19:11:41 - INFO - [System] - =====================================
+2025-10-28 19:11:41 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 19:11:42 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 19:11:44 - INFO - [admin] - Usuario 'admin' inició sesión exitosamente.
+2025-10-28 19:11:56 - INFO - [admin] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-28 19:11:56 - INFO - [admin] - Consolidando DataFrames por campaña...
+2025-10-28 19:11:56 - INFO - [admin] - Procesamiento de devoluciones completado exitosamente. 11 campañas procesadas.
+2025-10-28 19:12:03 - INFO - [admin] - Aplicación cerrada con código de salida: 0
+2025-10-28 19:22:47 - INFO - [System] - =====================================
+2025-10-28 19:22:47 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 19:22:47 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 19:22:50 - INFO - [admin] - Usuario 'admin' inició sesión exitosamente.
+2025-10-28 19:23:38 - INFO - [admin] - Inicio del procesamiento de Reportes Directo para 14 archivo(s).
+2025-10-28 19:23:38 - INFO - [admin] - Agregando resultados de Reportes Directo...
+2025-10-28 19:23:38 - INFO - [admin] - Total de registros consolidados (Directo): 30618
+2025-10-28 19:23:38 - INFO - [admin] - Procesamiento de Reportes Directo completado exitosamente.
+2025-10-28 19:25:25 - INFO - [admin] - Inicio del procesamiento de Reportes Directo para 19 archivo(s).
+2025-10-28 19:25:25 - INFO - [admin] - Agregando resultados de Reportes Directo...
+2025-10-28 19:25:25 - INFO - [admin] - Total de registros consolidados (Directo): 28750
+2025-10-28 19:25:25 - INFO - [admin] - Procesamiento de Reportes Directo completado exitosamente.
+2025-10-28 19:25:57 - INFO - [admin] - Inicio del procesamiento de Reportes Simples para 1 archivo(s).
+2025-10-28 19:25:58 - INFO - [admin] - Procesamiento de Reportes Simples completado exitosamente. 1 archivo(s) procesado(s).
+2025-10-28 19:27:19 - INFO - [admin] - Inicio del procesamiento de Reportes Directo para 17 archivo(s).
+2025-10-28 19:27:19 - INFO - [admin] - Agregando resultados de Reportes Directo...
+2025-10-28 19:27:19 - INFO - [admin] - Total de registros consolidados (Directo): 21753
+2025-10-28 19:27:19 - INFO - [admin] - Procesamiento de Reportes Directo completado exitosamente.
+2025-10-28 19:27:44 - INFO - [admin] - Aplicación cerrada con código de salida: 0
+2025-10-28 19:38:33 - INFO - [System] - =====================================
+2025-10-28 19:38:33 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 19:38:33 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 19:38:36 - INFO - [admin] - Usuario 'admin' inició sesión exitosamente.
+2025-10-28 19:38:58 - INFO - [admin] - Aplicación cerrada con código de salida: 0
+2025-10-28 19:39:01 - INFO - [System] - =====================================
+2025-10-28 19:39:01 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 19:39:02 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 19:39:04 - INFO - [admin] - Usuario 'admin' inició sesión exitosamente.
+2025-10-28 19:39:08 - INFO - [admin] - Aplicación cerrada con código de salida: 0
+2025-10-28 21:09:42 - INFO - [System] - =====================================
+2025-10-28 21:09:42 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 21:09:42 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 21:09:51 - INFO - [admin] - Usuario 'admin' inició sesión exitosamente.
+2025-10-28 21:10:13 - INFO - [admin] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-28 21:10:13 - INFO - [admin] - Consolidando DataFrames por campaña...
+2025-10-28 21:10:14 - INFO - [admin] - Procesamiento de devoluciones completado exitosamente. 11 campañas procesadas.
+2025-10-28 21:10:52 - INFO - [admin] - Inicio del procesamiento de Reportes Simples para 3 archivo(s).
+2025-10-28 21:10:55 - INFO - [admin] - Procesamiento de Reportes Simples completado exitosamente. 3 archivo(s) procesado(s).
+2025-10-28 21:11:19 - INFO - [admin] - Inicio del procesamiento de Reportes BASIC para 1 archivo(s).
+2025-10-28 21:11:19 - INFO - [admin] - Procesamiento de Reportes BASIC completado exitosamente. 1 archivo(s) procesado(s).
+2025-10-28 21:11:30 - INFO - [admin] - Inicio del procesamiento de Reportes Directo para 17 archivo(s).
+2025-10-28 21:11:30 - INFO - [admin] - Agregando resultados de Reportes Directo...
+2025-10-28 21:11:30 - INFO - [admin] - Total de registros consolidados (Directo): 21753
+2025-10-28 21:11:30 - INFO - [admin] - Procesamiento de Reportes Directo completado exitosamente.
+2025-10-28 21:11:35 - INFO - [admin] - Aplicación cerrada con código de salida: 0
+2025-10-28 21:11:38 - INFO - [System] - =====================================
+2025-10-28 21:11:38 - INFO - [System] - Iniciando Sistema de Devoluciones...
+2025-10-28 21:11:38 - INFO - [System] - Conexión a la base de datos establecida.
+2025-10-28 21:11:45 - WARNING - [System] - Login cancelado o fallido. Cerrando aplicación.
+2025-10-28 21:52:53 - INFO - [System] - =====================================
+2025-10-28 21:52:53 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 21:52:53 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 21:53:02 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 21:53:30 - INFO - [System] - =====================================
+2025-10-28 21:53:30 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 21:53:30 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 21:53:51 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 21:54:08 - INFO - [System] - =====================================
+2025-10-28 21:54:08 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 21:54:08 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 21:55:46 - INFO - [System] - =====================================
+2025-10-28 21:55:46 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 21:55:46 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 21:56:47 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-28 21:56:47 - INFO - [UsuarioPrueba] - Consolidando DataFrames por campaña...
+2025-10-28 21:56:47 - INFO - [UsuarioPrueba] - Procesamiento de devoluciones completado exitosamente. 11 campañas procesadas.
+2025-10-28 21:57:06 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-28 21:57:06 - INFO - [UsuarioPrueba] - Consolidando DataFrames por campaña...
+2025-10-28 21:57:06 - INFO - [UsuarioPrueba] - Procesamiento de devoluciones completado exitosamente. 11 campañas procesadas.
+2025-10-28 21:57:27 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:05:33 - INFO - [System] - =====================================
+2025-10-28 22:05:33 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:05:33 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:07:36 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:07:44 - INFO - [System] - =====================================
+2025-10-28 22:07:44 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:07:44 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:08:13 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:09:17 - INFO - [System] - =====================================
+2025-10-28 22:09:17 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:09:17 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:09:53 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:10:25 - INFO - [System] - =====================================
+2025-10-28 22:10:25 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:10:25 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:10:27 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:11:00 - INFO - [System] - =====================================
+2025-10-28 22:11:00 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:11:00 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:11:03 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:14:03 - INFO - [System] - =====================================
+2025-10-28 22:14:03 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:14:03 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:14:10 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:14:13 - INFO - [System] - =====================================
+2025-10-28 22:14:13 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:14:13 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:14:22 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:14:24 - INFO - [System] - =====================================
+2025-10-28 22:14:24 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:14:24 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:14:27 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:16:25 - INFO - [System] - =====================================
+2025-10-28 22:16:25 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:16:25 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:16:29 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:22:53 - INFO - [System] - =====================================
+2025-10-28 22:22:53 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:22:53 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:22:58 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:25:27 - INFO - [System] - =====================================
+2025-10-28 22:25:27 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:25:27 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:26:01 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:27:27 - INFO - [System] - =====================================
+2025-10-28 22:27:27 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:27:27 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:27:34 - INFO - [System] - =====================================
+2025-10-28 22:27:34 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:27:34 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:28:48 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:49:53 - INFO - [System] - =====================================
+2025-10-28 22:49:53 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:49:53 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:50:00 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:51:21 - INFO - [System] - =====================================
+2025-10-28 22:51:21 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:51:21 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:51:27 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:51:51 - INFO - [System] - =====================================
+2025-10-28 22:51:51 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:51:51 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:51:58 - INFO - [UsuarioPrueba] - Inicio del procesamiento de Reportes BASIC para 1 archivo(s).
+2025-10-28 22:51:58 - INFO - [UsuarioPrueba] - Procesamiento de Reportes BASIC completado exitosamente. 1 archivo(s) procesado(s).
+2025-10-28 22:52:06 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-28 22:54:47 - INFO - [System] - =====================================
+2025-10-28 22:54:47 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-28 22:54:47 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-28 22:54:52 - INFO - [UsuarioPrueba] - Cargados 1 archivo(s) para Reportes Basic.
+2025-10-28 22:54:53 - INFO - [UsuarioPrueba] - Iniciando hilo de procesamiento para 1 archivo(s) de Reportes Basic.
+2025-10-28 22:54:53 - INFO - [UsuarioPrueba] - Inicio del procesamiento de Reportes BASIC para 1 archivo(s).
+2025-10-28 22:54:53 - INFO - [UsuarioPrueba] - Procesamiento de Reportes BASIC completado exitosamente. 1 archivo(s) procesado(s).
+2025-10-28 22:54:53 - INFO - [UsuarioPrueba] - Mostrando resultados de Reportes Basic: 1 filas.
+2025-10-28 22:54:54 - INFO - [UsuarioPrueba] - Tabla de Reportes Basic copiada al portapapeles (formato TSV).
+2025-10-28 22:55:12 - INFO - [UsuarioPrueba] - Limpiada la selección de archivos de Reportes Basic.
+2025-10-28 22:55:29 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-29 10:05:25 - INFO - [System] - =====================================
+2025-10-29 10:05:25 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-29 10:05:25 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-29 10:06:54 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-29 10:06:55 - INFO - [UsuarioPrueba] - Consolidando DataFrames por campaña...
+2025-10-29 10:06:55 - INFO - [UsuarioPrueba] - Procesamiento de devoluciones completado exitosamente. 11 campañas procesadas.
+2025-10-29 10:08:00 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-29 10:08:00 - WARNING - [UsuarioPrueba] - Validación de estructura fallida. Faltan columnas: {'variable4', 'variable2', 'horaaenviar', 'nombre', 'apellidopaterno', 'apellidomaterno', 'variable1', 'fechainsercion', 'variable5', 'fechaaenviar', 'campana', 'variable3'}
+2025-10-29 10:08:00 - ERROR - [UsuarioPrueba] - Error de estructura: El archivo e5_reenvio_ropa_27102025.csv no tiene la estructura requerida
+2025-10-29 10:08:12 - INFO - [UsuarioPrueba] - Cargados 1 archivo(s) para Reportes Basic.
+2025-10-29 10:08:13 - INFO - [UsuarioPrueba] - Iniciando hilo de procesamiento para 1 archivo(s) de Reportes Basic.
+2025-10-29 10:08:13 - INFO - [UsuarioPrueba] - Inicio del procesamiento de Reportes BASIC para 1 archivo(s).
+2025-10-29 10:08:13 - INFO - [UsuarioPrueba] - Procesamiento de Reportes BASIC completado exitosamente. 1 archivo(s) procesado(s).
+2025-10-29 10:08:13 - INFO - [UsuarioPrueba] - Mostrando resultados de Reportes Basic: 1 filas.
+2025-10-29 10:08:27 - INFO - [UsuarioPrueba] - Inicio del procesamiento de Reportes Directo para 17 archivo(s).
+2025-10-29 10:08:27 - INFO - [UsuarioPrueba] - Agregando resultados de Reportes Directo...
+2025-10-29 10:08:27 - INFO - [UsuarioPrueba] - Total de registros consolidados (Directo): 21753
+2025-10-29 10:08:27 - INFO - [UsuarioPrueba] - Procesamiento de Reportes Directo completado exitosamente.
+2025-10-29 10:08:43 - INFO - [UsuarioPrueba] - Mostrando resultados de Reportes Basic: 1 filas.
+2025-10-29 10:08:51 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-30 08:48:03 - INFO - [System] - =====================================
+2025-10-30 08:48:03 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-30 08:48:03 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-30 08:48:15 - INFO - [System] - =====================================
+2025-10-30 08:48:15 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-30 08:48:15 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-30 08:48:30 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 11 archivo(s).
+2025-10-30 08:48:30 - WARNING - [UsuarioPrueba] - Se encontraron 1 errores de caracteres en mensajes.
+2025-10-30 08:48:30 - ERROR - [UsuarioPrueba] - Error de caracteres inválidos en archivo: Sms_Layout_e2B_devs_27102025.csv
+2025-10-30 08:48:36 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 19 archivo(s).
+2025-10-30 08:48:36 - WARNING - [UsuarioPrueba] - Se encontraron 1 errores de caracteres en mensajes.
+2025-10-30 08:48:36 - ERROR - [UsuarioPrueba] - Error de caracteres inválidos en archivo: Sms_Layout_e2B_devs_27102025.csv
+2025-10-30 08:48:40 - INFO - [UsuarioPrueba] - Inicio del procesamiento de devoluciones para 1 archivo(s).
+2025-10-30 08:48:40 - INFO - [UsuarioPrueba] - Consolidando DataFrames por campaña...
+2025-10-30 08:48:40 - INFO - [UsuarioPrueba] - Procesamiento de devoluciones completado exitosamente. 1 campañas procesadas.
+2025-10-30 08:48:57 - INFO - [UsuarioPrueba] - Cargados 3 archivo(s) para Reportes Basic.
+2025-10-30 08:48:58 - INFO - [UsuarioPrueba] - Iniciando hilo de procesamiento para 3 archivo(s) de Reportes Basic.
+2025-10-30 08:48:58 - INFO - [UsuarioPrueba] - Inicio del procesamiento de Reportes BASIC para 3 archivo(s).
+2025-10-30 08:48:58 - INFO - [UsuarioPrueba] - Procesamiento de Reportes BASIC completado exitosamente. 3 archivo(s) procesado(s).
+2025-10-30 08:48:58 - INFO - [UsuarioPrueba] - Mostrando resultados de Reportes Basic: 3 filas.
+2025-10-30 08:49:00 - INFO - [UsuarioPrueba] - Tabla de Reportes Basic copiada al portapapeles (formato TSV).
+2025-10-30 08:49:01 - INFO - [UsuarioPrueba] - Tabla de Reportes Basic copiada al portapapeles (formato TSV).
+2025-10-30 08:49:01 - INFO - [UsuarioPrueba] - Tabla de Reportes Basic copiada al portapapeles (formato TSV).
+2025-10-30 08:49:01 - INFO - [UsuarioPrueba] - Tabla de Reportes Basic copiada al portapapeles (formato TSV).
+2025-10-30 08:49:12 - INFO - [UsuarioPrueba] - Mostrando resultados de Reportes Basic: 3 filas.
+2025-10-30 08:49:24 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-10-31 18:45:02 - INFO - [System] - =====================================
+2025-10-31 18:45:02 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-10-31 18:45:03 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-10-31 18:45:18 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
+2025-11-20 10:26:50 - INFO - [System] - =====================================
+2025-11-20 10:26:50 - INFO - [System] - Iniciando Sistema de Devoluciones (MODO SIN LOGIN)...
+2025-11-20 10:26:50 - INFO - [UsuarioPrueba] - Ejecutando en modo sin login como 'UsuarioPrueba'. Conexión a BD desactivada.
+2025-11-20 10:26:58 - INFO - [UsuarioPrueba] - Aplicación cerrada con código de salida: 0
